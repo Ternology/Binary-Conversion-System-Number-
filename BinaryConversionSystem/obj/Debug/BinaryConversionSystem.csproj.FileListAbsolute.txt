@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\bin\Debug\BinaryConversionSystem.exe.config
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\bin\Debug\BinaryConversionSystem.exe
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\bin\Debug\BinaryConversionSystem.pdb
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.Form1.resources
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.exe
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\BinaryConversionSystem\obj\Debug\BinaryConversionSystem.pdb

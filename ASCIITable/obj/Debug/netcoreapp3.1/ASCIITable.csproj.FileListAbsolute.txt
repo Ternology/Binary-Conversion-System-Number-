@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.exe
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.deps.json
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.dll
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\bin\Debug\netcoreapp3.1\ASCIITable.pdb
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.dll
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.pdb
+C:\Users\ADMIN\source\repos\BinaryConversionSystem\ASCIITable\obj\Debug\netcoreapp3.1\ASCIITable.genruntimeconfig.cache
